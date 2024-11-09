@@ -2,7 +2,7 @@
     <img src="README_MD_IMG/3d-printed-pcb-vise-front-view.JPG" alt="project photo">
 </div>
 
-Air purifier based X1C fume filtering system.
+Simple 3D printed PCB vise.
 
 ### Read more at BYTECHLAB:
 
